@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_dumy_Facebook/static/css/main.612f005f.css",
+    "main.js": "/react_dumy_Facebook/static/js/main.2bfdb7bc.js",
+    "static/js/787.9eb7b96d.chunk.js": "/react_dumy_Facebook/static/js/787.9eb7b96d.chunk.js",
+    "static/media/group.png": "/react_dumy_Facebook/static/media/group.48ba6abfbb7896c61c2e.png",
+    "static/media/card-1.jpg": "/react_dumy_Facebook/static/media/card-1.53840ae690d95012f281.jpg",
+    "static/media/gift.png": "/react_dumy_Facebook/static/media/gift.b287a329aabd189a930f.png",
+    "static/media/post_img.jpg": "/react_dumy_Facebook/static/media/post_img.acf93d3a90a3194238d9.jpg",
+    "static/media/pro119.jpg": "/react_dumy_Facebook/static/media/pro119.c15e8f2e69fb36060a6e.jpg",
+    "static/media/logo.svg": "/react_dumy_Facebook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/like.svg": "/react_dumy_Facebook/static/media/like.75f9bea19bc19b9c135680982ab818e9.svg",
+    "static/media/heart.svg": "/react_dumy_Facebook/static/media/heart.09fee837a394d29fd899a12e02e0af85.svg",
+    "index.html": "/react_dumy_Facebook/index.html",
+    "main.612f005f.css.map": "/react_dumy_Facebook/static/css/main.612f005f.css.map",
+    "main.2bfdb7bc.js.map": "/react_dumy_Facebook/static/js/main.2bfdb7bc.js.map",
+    "787.9eb7b96d.chunk.js.map": "/react_dumy_Facebook/static/js/787.9eb7b96d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612f005f.css",
+    "static/js/main.2bfdb7bc.js"
+  ]
+}
